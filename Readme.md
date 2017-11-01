@@ -2,6 +2,7 @@
 
 * Студент: [Андрей Чепулис](https://up.htmlacademy.ru/adaptive/12/user/240237).
 * Наставник: `Неизвестно`BINGO.
+wORKED
 
 ---
 
